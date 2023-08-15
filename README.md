@@ -1,1 +1,2 @@
 # color-enhancement
+The image enhancement techniques in this reading are focused more on making your images more clear for human observers.  These techniques are not intended to directly improve image segmentation.  Image processing is often the first step in a larger computer vision project.  Part of computer vision is replicating and automating the tasks of human vision.  In this context, increasing the visual clarity of an image may be an important preprocessing step.
